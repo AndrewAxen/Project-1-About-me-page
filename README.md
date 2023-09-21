@@ -2,7 +2,7 @@
 
 ## Requirements:
 
-1. A web page about yourself 
+1. A web page about me
 2. Add more
 - interesting experiences
 - hobbies
